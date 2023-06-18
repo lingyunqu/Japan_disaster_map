@@ -1,1 +1,1 @@
-# R_map
+# Japan disaster density mapping
